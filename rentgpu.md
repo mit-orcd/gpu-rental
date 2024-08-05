@@ -12,6 +12,6 @@
 
    where ```XXXX``` is your MIT account name. You can also access a command shell from the [Engaging Portal](https://engaging-ood.mit.edu/)
 
-3. From an Engaging command shell session, use the Slurm reservation manager to access your reserved node(s). Use the reservation name provide to you in the reservation confirmation. 
+3. From an Engaging command shell session, use the Slurm reservation manager to access your reserved node(s). Use the reservation name provided to you in the reservation confirmation. 
 
 
